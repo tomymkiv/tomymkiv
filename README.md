@@ -32,6 +32,8 @@ Actualmente estoy terminando la Tecnicatura en desarrollo de software en la Univ
 <code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/git-logo-nyMTpscw.png"></code>
 <code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/github-logo-C4a-h-sY.png"></code>
 <code><img height="40" width="40" src="https://logospng.org/download/visual-studio-code/visual-studio-code-4096.png"></code>
+<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdocs.gotohuman.com%2Fimg%2Fn8n-logo.png&f=1&nofb=1&ipt=477ae1057a7890f6130490d0a974efb8dc56e810c538bcfd9a2f370d46870d3f"></code>
+
 
 <br>
 <br>
