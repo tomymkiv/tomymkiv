@@ -9,7 +9,7 @@ Actualmente estoy terminando la Tecnicatura en desarrollo de software en la Univ
 
 
 # Tecnologías frontend
-<code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/html-logo-BliPqAlx.png"></code>
+<img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/html-logo-BliPqAlx.png">
 <code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/css-logo-7HLKan4r.png"></code>
 <code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/js-logo-DpHzlndf.png"></code>
 <code><img height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/tailwind-logo-C257xWsT.png"></code>
