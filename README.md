@@ -17,15 +17,11 @@ Actualmente estoy terminando la Tecnicatura en desarrollo de software en la Univ
 <code><img align="left" height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/bootstrap-logo-DypcjCQu.png"></code>
 <code><img align="left" height="40" width="40" src="https://tomymkiv.github.io/portfolio/assets/typescript-logo-DyGYiFlR.png"></code>
 
-<br>
-
 # Tecnologías backend
 <code><img height="40" align="left" width="40" src="https://tomymkiv.github.io/portfolio/assets/php-logo-ChuE0_J1.png"></code>
 <code><img height="40" align="left" width="40" src="https://tomymkiv.github.io/portfolio/assets/laravel-logo-ACttltGX.png"></code>
 <code><img height="40" align="left" width="40" src="https://tomymkiv.github.io/portfolio/assets/mysql-logo-D1fmG43W.png"></code>
 <code><img height="40" align="left" width="40" src="https://tomymkiv.github.io/portfolio/assets/sqlite-logo-B9oAFhg1.png"></code>
-
-<br>
 
 # Otras herramientas
 <code><img height="40" width="40" align="left" src="https://tomymkiv.github.io/portfolio/assets/vite-logo-D7N9jA4H.png"></code>
@@ -35,8 +31,6 @@ Actualmente estoy terminando la Tecnicatura en desarrollo de software en la Univ
 <code><img height="40" width="40" align="left" src="https://logospng.org/download/visual-studio-code/visual-studio-code-4096.png"></code>
 <code><img height="40" width="40" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdocs.gotohuman.com%2Fimg%2Fn8n-logo.png&f=1&nofb=1&ipt=477ae1057a7890f6130490d0a974efb8dc56e810c538bcfd9a2f370d46870d3f"></code>
 
-
-<br>
 <br>
 
 # Contactame por
