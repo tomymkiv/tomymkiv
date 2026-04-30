@@ -4,7 +4,7 @@
 - Enfocado en backend 📊
 
 
-# Sobre mí
+# Sobre mí 
 Actualmente estoy terminando la Tecnicatura en desarrollo de software en la Universidad Provincial de Ezeiza. Siempre que puedo, me nutro de conocimiento de calidad para poder aportarselo a proyectos futuros.
 
 
